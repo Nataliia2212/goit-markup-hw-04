@@ -435,7 +435,7 @@ transition: background-color cubic-bezier(0.4, 0, 0.2, 1) 250ms;
 .social-text {
     font-weight: 500;
     margin-bottom: 16px;;
-    color: var(--cloud);
+    color: var(--white);
 }
 
 .footer-social-list{
